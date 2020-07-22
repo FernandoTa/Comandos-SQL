@@ -1,2 +1,2 @@
-Alterar um texto em uma tabela
-update TABLE set COLUMN = replace(COLUMN,'OLS_STRING','NEW_STRING')
+--Alterar um texto em uma tabela
+update TABLE set COLUMN = replace(COLUMN,'OLS_STRING','NEW_STRING') where CONDITIONAL
